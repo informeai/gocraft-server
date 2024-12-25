@@ -1,4 +1,4 @@
-package gocraft
+package client
 
 import (
 	"encoding/binary"
